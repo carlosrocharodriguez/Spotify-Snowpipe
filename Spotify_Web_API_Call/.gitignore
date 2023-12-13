@@ -1,6 +1,6 @@
 # .gitignore
 *.env
-# Ignore first draft of Spotify Authentication / Access Token retrieval
+# Ignore early drafts of Spotify Authentication tests and API Calls
 spotify_token_auth.py
 spotify_loop_function.py
 api-call.py
