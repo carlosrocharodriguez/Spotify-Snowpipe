@@ -1,0 +1,13 @@
+# .gitignore
+*.env
+# Ignore first draft of Spotify Authentication / Access Token retrieval
+spotify_token_auth.py
+spotify_loop_function.py
+api-call.py
+spotify_web_api_call_extended.py
+# Ignore Python-specific metadata/cache files for token security
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+
