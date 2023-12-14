@@ -1,7 +1,7 @@
 <H1> Spotify Snowpipe
 </br>
 🎶❄️🛷</H1>
-<img src="https://4.bp.blogspot.com/-ukxfHKstbvw/UMe-P59v7-I/AAAAAAAAS4c/j3whmPPaFAQ/s400/tumblr_lw65xazB5T1qf90lyo1_500.gif">
+<img src="https://64.media.tumblr.com/37db22e93742263d1be82a52ffd63d0e/tumblr_p14qo1TI981rpduwho1_500.gif">
 </br>
 <p> In this repository, I'll build a data pipeline to retrieve Spotify Web API data, write it to Azure Blob Storage, configure an Azure Event Grid subscription, and configure a Snowpipe for seamless integration with Snowflake.</p>
 </br>
